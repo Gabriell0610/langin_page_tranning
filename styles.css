@@ -257,7 +257,7 @@ footer {
     font-size: 1.4rem;
 }
 
-@media (max-width:375px) {
+@media (max-width:425px) {
    header {
     width: 860px;
     background-image: url(images/bg-header-mobile.png);
@@ -399,16 +399,9 @@ footer {
    .card-footer p {
     font-size: 1.4rem;
    }
-
     .logos img {
         height:  30px;
     }
-
-
-   
-
-   
-
 
 }
   
